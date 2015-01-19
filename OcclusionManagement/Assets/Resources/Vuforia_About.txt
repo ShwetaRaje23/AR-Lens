@@ -1,0 +1,17 @@
+The Occlusion Management sample shows the use of transparent shaders to let users partially look inside a real object with an occlusion effect.
+
+Key Functionality
+- Manage occlusion
+- Manage camera functions: flash and continuous autofocus
+
+Targets
+https://developer.vuforia.com/sites/default/files/sample-apps/targets/flakesbox.pdf
+
+Instructions
+- Point camera at target to view
+- Double tap to access options menu
+
+Terms of Use
+https://developer.vuforia.com/legal/EULA
+
+© 2012-2014 Qualcomm Connected Experiences, Inc. All Rights Reserved.

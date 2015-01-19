@@ -1,0 +1,37 @@
+Base path: C:/Program Files (x86)/Unity/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-3-17004
+Cmd: getPlatforms
+Cmd: compileSnippet
+  api=5 type=0 insize=13395 outsize=2657 kw=DIRECTIONAL LIGHTMAP_ON DIRLIGHTMAP_OFF PORTRAIT_ON ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=13395 outsize=2795 kw=DIRECTIONAL LIGHTMAP_ON DIRLIGHTMAP_ON PORTRAIT_ON ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=13395 outsize=4555 kw=DIRECTIONAL LIGHTMAP_OFF DIRLIGHTMAP_OFF PORTRAIT_OFF ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=13395 outsize=2795 kw=DIRECTIONAL LIGHTMAP_ON DIRLIGHTMAP_ON PORTRAIT_OFF ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=13395 outsize=7 kw=DIRECTIONAL LIGHTMAP_OFF DIRLIGHTMAP_OFF PORTRAIT_ON ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=13395 outsize=6 kw=DIRECTIONAL LIGHTMAP_ON DIRLIGHTMAP_ON PORTRAIT_ON ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=13395 outsize=6 kw=DIRECTIONAL LIGHTMAP_ON DIRLIGHTMAP_OFF PORTRAIT_OFF ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=9252 outsize=3680 kw=POINT PORTRAIT_ON ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=9252 outsize=3769 kw=POINT_COOKIE PORTRAIT_ON ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=9252 outsize=3680 kw=POINT PORTRAIT_OFF ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=9252 outsize=3912 kw=SPOT PORTRAIT_OFF ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=9252 outsize=3501 kw=DIRECTIONAL_COOKIE PORTRAIT_OFF ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=9252 outsize=7 kw=DIRECTIONAL PORTRAIT_ON ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=9252 outsize=7 kw=POINT_COOKIE PORTRAIT_ON ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=9252 outsize=6 kw=POINT PORTRAIT_OFF ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=9252 outsize=7 kw=SPOT PORTRAIT_OFF ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=9252 outsize=7 kw=DIRECTIONAL_COOKIE PORTRAIT_OFF ok=1
